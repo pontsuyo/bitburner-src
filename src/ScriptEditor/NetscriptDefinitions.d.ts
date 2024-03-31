@@ -6357,7 +6357,7 @@ export interface NS {
    * ```js
    * const mults = ns.getHackingMultipliers();
    * print(`chance: ${mults.chance}`);
-   * print(`growthL ${mults.growth}`);
+   * print(`growth: ${mults.growth}`);
    * ```
    * @returns Object containing the Player’s hacking related multipliers.
    */
